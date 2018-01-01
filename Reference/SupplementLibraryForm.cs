@@ -13,10 +13,8 @@ namespace Reference
 {
     public partial class SupplementLibraryForm : Form
     {
-
         string[] directories;
         string[] files;
-
         string fullDesc = "";
 
         public SupplementLibraryForm()
