@@ -225,7 +225,6 @@ namespace Reference
             writer.WriteLine("Full description:");
             writer.WriteLine(fullDesc);
             writer.Close();
-
         }
     }
 }
